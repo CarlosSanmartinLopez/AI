@@ -22,6 +22,7 @@ package PerceptronSimple;
  * and open the template in the editor.
  */
 
+
 /**
  *
  * @author Stelliox.com
